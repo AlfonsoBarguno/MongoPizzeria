@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "62386acbba6a2de6131e9e70"
+  },
+  "categoria": "Pizza vegetariana",
+  "nombre": "Pizza Margarita",
+  "descripcion": "mozzarela, tomate, basílico",
+  "imagen": "3564.jpeg",
+  "precio": 12
+},{
+  "_id": {
+    "$oid": "62386ae8ba6a2de6131e9e71"
+  },
+  "categoria": "Pizza del día",
+  "nombre": "Pizza Peperoni",
+  "descripcion": "mozzarela, tomate, peperoni",
+  "imagen": "3576.jpeg",
+  "precio": 13
+},{
+  "_id": {
+    "$oid": "62386b0aba6a2de6131e9e72"
+  },
+  "categoria": "Hamburguesas",
+  "nombre": "Hamburguesa",
+  "descripcion": "ternera, tomate, queso",
+  "imagen": "3589.jpeg",
+  "precio": 10
+},{
+  "_id": {
+    "$oid": "62386b2eba6a2de6131e9e73"
+  },
+  "categoria": "Bebidas",
+  "nombre": "Vino tinto",
+  "descripcion": "Penedés, Garnacha",
+  "imagen": "3584.jpeg",
+  "precio": 16
+}]

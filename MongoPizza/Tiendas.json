@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "62386bd0ba6a2de6131e9e77"
+  },
+  "direccion": "C/Muntaner 33",
+  "codigo": "08034",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona"
+},{
+  "_id": {
+    "$oid": "62386be9ba6a2de6131e9e78"
+  },
+  "direccion": "C/Goliat 43",
+  "codigo": "08056",
+  "localidad": "Girona",
+  "provincia": "Girona"
+},{
+  "_id": {
+    "$oid": "62386bfcba6a2de6131e9e79"
+  },
+  "direccion": "C/Pau V 90",
+  "codigo": "08024",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona"
+},{
+  "_id": {
+    "$oid": "62386c10ba6a2de6131e9e7a"
+  },
+  "direccion": "C/Emili Roig 50",
+  "codigo": "08014",
+  "localidad": "Girona",
+  "provincia": "Girona"
+}]

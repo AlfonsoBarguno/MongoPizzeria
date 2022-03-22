@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62386997ba6a2de6131e9e69"
+  },
+  "idCliente": "",
+  "fecha/hora": "2020-07-23",
+  "tipo": "domicilio",
+  "repartidor": "Esteban",
+  "horaEntrega": "22:45:23",
+  "cantidadProductos": 8,
+  "precioTotal": 35
+},{
+  "_id": {
+    "$oid": "623869b1ba6a2de6131e9e6a"
+  },
+  "idCliente": "",
+  "fecha/hora": "2020-07-24",
+  "tipo": "tienda",
+  "cantidadProductos": 3,
+  "precioTotal": 14
+},{
+  "_id": {
+    "$oid": "623869c4ba6a2de6131e9e6b"
+  },
+  "idCliente": "",
+  "fecha/hora": "2020-07-23",
+  "tipo": "tienda",
+  "cantidadProductos": 6,
+  "precioTotal": 28
+},{
+  "_id": {
+    "$oid": "623869daba6a2de6131e9e6c"
+  },
+  "idCliente": "",
+  "fecha/hora": "2020-07-24",
+  "tipo": "domicilio",
+  "repartidor": "Sara",
+  "horaEntrega": "21:45:56",
+  "cantidadProductos": 12,
+  "precioTotal": 42
+}]

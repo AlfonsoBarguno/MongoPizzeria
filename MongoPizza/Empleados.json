@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "62386ca0ba6a2de6131e9e7e"
+  },
+  "idTienda": "",
+  "nombre": "Camilo",
+  "apellidos": "Rodríguez Mansa",
+  "NIF": "89675634T",
+  "Tipo": "cocinero"
+},{
+  "_id": {
+    "$oid": "62386cc7ba6a2de6131e9e7f"
+  },
+  "idTienda": "",
+  "nombre": "Rosa",
+  "apellidos": "Germán Lu",
+  "NIF": "87664590C",
+  "Tipo": "cocinero"
+},{
+  "_id": {
+    "$oid": "62386ceaba6a2de6131e9e80"
+  },
+  "idTienda": "",
+  "nombre": "Esteban",
+  "apellidos": "Gómez Ruiz",
+  "NIF": "89896709P",
+  "Tipo": "repartidor"
+},{
+  "_id": {
+    "$oid": "62386d0eba6a2de6131e9e81"
+  },
+  "idTienda": "",
+  "nombre": "Sara",
+  "apellidos": "Pomés Garbo",
+  "NIF": "89234236W",
+  "Tipo": "repartidor"
+}]

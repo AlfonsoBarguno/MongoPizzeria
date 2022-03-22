@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62386ec8ba6a2de6131e9e8f"
+  },
+  "nombre": "Pizza vegetariana"
+},{
+  "_id": {
+    "$oid": "62386ed7ba6a2de6131e9e90"
+  },
+  "nombre": " Pizza del día"
+},{
+  "_id": {
+    "$oid": "62386ee5ba6a2de6131e9e91"
+  },
+  "nombre": "Hamburguesas"
+},{
+  "_id": {
+    "$oid": "62386ef1ba6a2de6131e9e92"
+  },
+  "nombre": "Bebidas"
+}]

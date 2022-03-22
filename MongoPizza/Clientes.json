@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "623867ebba6a2de6131e9e61"
+  },
+  "nombre": "Carlos",
+  "apellidos": "Álvarez Vona",
+  "direccion": "C/Mata 23, 1",
+  "codigo": "08056",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": 657453123
+},{
+  "_id": {
+    "$oid": "62386828ba6a2de6131e9e62"
+  },
+  "nombre": "Nuria",
+  "apellidos": "Castany Robert",
+  "direccion": "C/Molino 33, 4",
+  "codigo": "08070",
+  "localidad": "Girona",
+  "provincia": "Girona",
+  "telefono": 657453987
+},{
+  "_id": {
+    "$oid": "6238685eba6a2de6131e9e63"
+  },
+  "nombre": "Elviara",
+  "apellidos": "Conte Barba",
+  "direccion": "C/Llobregos 55, 7",
+  "codigo": "08016",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": 689753123
+},{
+  "_id": {
+    "$oid": "6238688fba6a2de6131e9e64"
+  },
+  "nombre": "Ludmila",
+  "apellidos": "Cunot Var",
+  "direccion": "C/Montcada 78, 3",
+  "codigo": "08026",
+  "localidad": "Barcelona",
+  "provincia": "Barcelona",
+  "telefono": 656423121
+},{
+  "_id": {
+    "$oid": "623868c1ba6a2de6131e9e65"
+  },
+  "nombre": "Roberto",
+  "apellidos": "Cándido Pun",
+  "direccion": "C/Luis X 78, 1",
+  "codigo": "08076",
+  "localidad": "Girona",
+  "provincia": "Girona",
+  "telefono": 657467654
+}]
